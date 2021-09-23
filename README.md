@@ -1,6 +1,6 @@
 I am an otaku 👀
-   new to programming🌳 
-   currently learning python🐍 
+   new to programming 🌳 
+   currently learning python 🐍 
 
 - 📫 You can reach me in Twitter/Instagram at @gojogourav
 
